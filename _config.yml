@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: from B to Y
+title: Frem's Blog
 email: f@vollgrav.consulting
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal experiments with habit formation, nutrition,
+  My experiments with habit formation, nutrition,
   human performance, single purpose devices, meditation,
   persuasion, randomness, risk assessment, finance,
   value investing, decision making.
