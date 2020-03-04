@@ -16,7 +16,7 @@ I have tried to keep the tools stripped to bare minimum.
 
 Emacs (cuz :cupid:), GitHub Pages (I use git daily) and Markdown (crept in from other projects I use)
 
-the first post will be about [Fixed Time, Variable Scope][fixed-time-variable-scope] which recently rocked my world.
+the first post will be about [Stop work and put your pencil down]({% post_url 2020-03-01-stop-work-put-pencil-down.markdown %}) which recently rocked my world.
 
 Thank you for letting me be part of your future cone of light.
 
